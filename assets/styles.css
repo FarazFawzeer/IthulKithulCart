@@ -216,6 +216,7 @@ footer {
     background-color: white;
     height: 99vh;
     min-width: 600px;
+    overflow: auto;
   }
 
   .cancel-btn{
